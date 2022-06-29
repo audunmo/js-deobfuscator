@@ -1,4 +1,4 @@
-Maximize - Deobfuscate and beautify JavaScript code with source maps
+Deobfuscate and beautify JavaScript code with source maps
 =====================================================================
 
 Maximize will deobfuscate and beautify minified code using
